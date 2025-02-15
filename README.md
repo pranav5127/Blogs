@@ -54,7 +54,7 @@ A simple Android app that fetches and displays blog posts from an API. Built usi
 1. **Clone the Repository:**
 
    ```bash
-   git clone https://github.com/yourusername/your-project.git
+   git clone https://github.com/pranav5127/Blogs.git
    cd your-project
    ```
 
