@@ -35,7 +35,7 @@ A simple Android app that fetches and displays blog posts from an API. Built usi
 ## Project Structure
 
 ```
-/your_project
+/blogs
  ├── /model        -> Data layer (API DTOs, Retrofit setup)
  ├── /repository   -> Data sources (Repository classes)
  ├── /viewmodel    -> Business logic (ViewModels)
