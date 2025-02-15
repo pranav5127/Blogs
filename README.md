@@ -1,3 +1,16 @@
+<div style="display: flex; justify-content: space-around; align-items: center;">
+  <a href="Screenshot">
+    <img src="media/blog1.jpg" alt="HomeScreen" width="200">
+  </a>
+  <a href="ScreenShot">
+    <img src="media/blog2.jpg" alt="SignIn" width="200">
+  </a>
+    <a href="Gif">
+    <img src="media/blogsvid.gif" alt="SignIn" width="200">
+  </a>
+
+</div>
+
 # Blog Reading App
 
 A simple Android app that fetches and displays blog posts from an API. Built using Kotlin, Jetpack Compose, Retrofit, and following the MVVM architecture.
@@ -84,17 +97,6 @@ A simple Android app that fetches and displays blog posts from an API. Built usi
   
 - **Blog Detail Screen:**  
   Tapping on a post navigates to a detail screen that renders the full post via a WebView. Use the back arrow in the top app bar or the device’s system back button to return.
-
-## Error Handling & Improvements
-
-- The app uses basic error handling in the ViewModel. For production, consider enhancing error handling with user-friendly messages, retry mechanisms, and loading states.
-- Extend the project by integrating caching (using Room or SQLite) and advanced UI transitions.
-
-## Contributing
-
-Contributions are welcome! If you have suggestions or improvements:
-- Open an issue.
-- Submit a pull request.
 
 ## Acknowledgments
 
